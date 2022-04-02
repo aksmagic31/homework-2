@@ -33,6 +33,8 @@ header nav {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    justify-content: space-between;
+    border-style: solid;
 }
 
 header nav ul {
